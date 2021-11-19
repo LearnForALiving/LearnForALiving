@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://raw.githubusercontent.com/LearnForALiving/LearnForALiving/main/Banner0.9.png" alt="My banner"
+<img src="https://raw.githubusercontent.com/LearnForALiving/LearnForALiving/main/Banner0.9.png" alt="My banner">
 
 <!--
 **LearnForALiving/LearnForALiving** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
